@@ -1,4 +1,4 @@
-# entcn
+# Introduction
 
 If translate English words into Chinese, you might consider looking 
 up a dictionary or online query, in fact, there is a faster way for 
@@ -9,3 +9,7 @@ to use, I have made some improvements on the basis of this software.
 You can pass in a words or a vector consisting of multiple words, which 
 will return the corresponding type of Chinese representation and be easy 
 to reuse.
+
+# Attention
+
+This package is not updated after v1.0.0, and the more powerful package [ecce](https://CRAN.R-project.org/package=ecce) is recommended.
